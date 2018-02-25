@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyProject3A2</string>
+    <string name="startIntent">Start Broadcast Intent! </string>
+    <string name="LaunchA2">Launching the Application A2</string>
+</resources>

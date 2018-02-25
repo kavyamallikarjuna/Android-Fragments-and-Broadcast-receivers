@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/exita1"
+        android:title="Exit A1"
+        android:orderInCategory="10"
+        android:visible="true"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/launchinga2"
+        android:title="Launching A2"
+        android:orderInCategory="12"
+        android:visible="true"
+        app:showAsAction="never"/>
+
+</menu>

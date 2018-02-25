@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyProject3</string>
+    <string name="LaunchA2">Launching the Application A2</string>
+
+    <string-array name="Monuments">
+        <item>Field Museum</item>
+        <item>Lincon Park Zoo</item>
+        <item>Shedd Aquarium</item>
+        <item>Chicago Opera house</item>
+        <item>Chicago theatre</item>
+        <item>Millenium Park</item>
+        <item>Willis tower</item>
+        <item>John Hancock Center</item>
+        <item>The Magnificent Mile</item>
+        <item>Navy Pier</item>
+    </string-array>
+    <string-array name="Website">
+        <item>https://www.fieldmuseum.org/</item>
+        <item>http://www.lpzoo.org/</item>
+        <item>https://www.sheddaquarium.org/</item>
+        <item>https://www.lyricopera.org/</item>
+        <item>https://www.chicago-theater.com/</item>
+        <item>https://www.cityofchicago.org/city/en/depts/dca/supp_info/millennium_park_-artarchitecture.html</item>
+        <item>http://www.willistower.com/</item>
+        <item>http://johnhancockcenterchicago.com/</item>
+        <item>https://www.themagnificentmile.com/?url=/</item>
+        <item>https://navypier.com/</item>
+    </string-array>
+</resources>
